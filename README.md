@@ -1,7 +1,7 @@
 # Hi there, I'm Konstantinos Kocheilas - aka [kohi8][Linkedin] 👋 
  
  
-## I'm a Junior Software Engineer and Game Developer with a burning passion to help and learn more!!💞️
+## I'm a Junior Software Engineer and Game Developer with a burning passion to help and learn more!!
 
 
 - 🔭 I’m currently learning Unreal 5 🤣
