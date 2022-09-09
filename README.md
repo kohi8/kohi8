@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @kohi8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 # Hi there, I'm Konstantinos Kocheilas - aka [kohi8][Linkedin] 👋 
  
  
-## I'm a Junior Software Engineer and Game Developer with a burning passion to help and learn more!!
+## I'm a Junior Software Engineer and Game Developer with a burning passion to help and learn more!!💞️
 
 
 - 🔭 I’m currently learning Unreal 5 🤣
@@ -19,8 +14,9 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/konstantinos-kocheilas/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/konstantinos-kocheilas/)
+
+📫[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/konstantinos-kocheilas/)
+📫[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/konstantinos-kocheilas/)
 
 
 ### Languages and Tools:
